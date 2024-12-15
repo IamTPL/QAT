@@ -1,0 +1,26 @@
+[
+    {
+        "email": "admin@gmail.com",
+        "password": "password123",
+        "role": "admin",
+        "token": "12345636",
+        "userInfo": {
+            "first_name": "John",
+            "last_name": "Doe",
+            "phone_number": "123-456-7890",
+            "address": "1234 Elm St"
+        }
+    },
+    {
+        "email": "user@gmail.com",
+        "password": "password456",
+        "role": "user",
+        "token": "12345636",
+        "userInfo": {
+            "first_name": "John",
+            "last_name": "Doe",
+            "phone_number": "123-456-7890",
+            "address": "1234 Elm St"
+        }
+    }
+]

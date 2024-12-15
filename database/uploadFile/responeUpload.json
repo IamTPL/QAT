@@ -1,0 +1,73 @@
+{
+    "message": "Document uploaded successfully",
+    "documents": [
+        {
+            "id": "b7086cdd-fd8b-4bb9-a28b-f653e99341f2",
+            "created_by": {
+                "id": "3478b218-b38d-4390-a2b7-25852007f611",
+                "name": "xuanhieuho"
+            },
+            "belonged_to_bank": {
+                "id": "6425e5a7-b4c4-4436-a4c0-71fba20d873c",
+                "name": "Bank of America"
+            },
+            "unique_name": "e1a2414a-72c1-4cb1-946c-6e0e26020246-American Express.pdf",
+            "original_name": "American Express.pdf",
+            "file_size": "580163.0",
+            "status": "new",
+            "created_at": "2024-11-12T10:44:03.637Z",
+            "updated_at": "2024-11-12T10:44:03.637Z"
+        },
+        {
+            "id": "1c9af8b7-5aa1-4d0c-b889-0d541c5a83bc",
+            "created_by": {
+                "id": "3478b218-b38d-4390-a2b7-25852007f611",
+                "name": "xuanhieuho"
+            },
+            "belonged_to_bank": {
+                "id": "2fdcd42f-7e07-4828-95cf-8f51fe94ef4e",
+                "name": "American Express"
+            },
+            "unique_name": "04640019-efbc-4dac-9934-0b5822682f4d-Bank of America CC.pdf",
+            "original_name": "Bank of America CC.pdf",
+            "file_size": "190971.0",
+            "status": "failed",
+            "created_at": "2024-11-12T10:44:03.643Z",
+            "updated_at": "2024-11-12T10:44:03.643Z"
+        },
+        {
+            "id": "8600d47f-65cd-4000-ba48-8a35b59ec939",
+            "created_by": {
+                "id": "3478b218-b38d-4390-a2b7-25852007f611",
+                "name": "xuanhieuho"
+            },
+            "belonged_to_bank": {
+                "id": "6425e5a7-b4c4-4436-a4c0-71fba20d873c",
+                "name": "Bank of America"
+            },
+            "unique_name": "adf75e22-73f8-4fb7-8f91-dca6cf395b35-Bank of America Checking.pdf",
+            "original_name": "Bank of America Checking.pdf",
+            "file_size": "118698.0",
+            "status": "new",
+            "created_at": "2024-11-12T10:44:03.646Z",
+            "updated_at": "2024-11-12T10:44:03.646Z"
+        },
+        {
+            "id": "247ec1cf-c1f0-417c-9ff3-9f046af3f38a",
+            "created_by": {
+                "id": "3478b218-b38d-4390-a2b7-25852007f611",
+                "name": "xuanhieuho"
+            },
+            "belonged_to_bank": {
+                "id": "6425e5a7-b4c4-4436-a4c0-71fba20d873c",
+                "name": "Bank of America"
+            },
+            "unique_name": "1acb3659-b710-4e4e-8cc8-0cf000d92f47-Chase CC.pdf",
+            "original_name": "Chase CC.pdf",
+            "file_size": "184110.0",
+            "status": "new",
+            "created_at": "2024-11-12T10:44:03.648Z",
+            "updated_at": "2024-11-12T10:44:03.648Z"
+        }
+    ]
+}

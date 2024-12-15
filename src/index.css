@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --font-family: 'Poppins', sans-serif;
+    --primary-color: #fb923c;
+    --cyan-color: #22d3ee;
+}
+
+@layer base {
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;900&display=swap');
+}
+
+.primary-button {
+    color: white;
+    background-color: #fb923c;
+}
+
+.primary-button:hover {
+    background-color: #f97316 !important;
+    border-color: #f97316 !important;
+}
+
+.secondary-button:hover {
+    color: #f97316 !important;
+    border-color: #f97316 !important;
+}
+
+.submit-button-reset:hover {
+    color: white !important;
+    background-color: #f97316 !important;
+    border-color: #f97316 !important;
+}
+
+/* AntD pagination button */
+.ant-pagination .ant-pagination-item-active {
+    border-color: #fb923c !important;
+    background-color: #fb923c !important;
+}
+
+.ant-pagination .ant-pagination-item-active a {
+    color: white !important;
+}
+
+.ant-pagination .ant-pagination-item-active a:hover {
+    background-color: #f97316 !important;
+}
+
+/* ========= AntD Table ========= */
+.ant-table-wrapper .ant-table-footer {
+    background-color: transparent !important;
+}
+
+/* button row per page style */
+.button-row-per-page:hover {
+    border-color: #fb923c !important;
+    color: #fb923c !important;
+}
+
+/* AntD input */
+.ant-input-outlined:focus,
+.ant-input-outlined:focus-within,
+.ant-input-outlined:hover {
+    border-color: #fb923c !important;
+    box-shadow: 0 0 0 1px #ff8c00 !important;
+}
+
+/* AntD loading table */
+.ant-spin .ant-spin-dot-holder {
+    color: #fb923c !important;
+}

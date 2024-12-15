@@ -1,0 +1,6 @@
+.ant-modal .ant-modal-footer {
+    text-align: center !important;
+}
+.ant-btn-variant-solid:not(:disabled):not(.ant-btn-disabled):hover {
+    background: #fb923c !important;
+}

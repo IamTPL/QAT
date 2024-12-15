@@ -1,0 +1,5 @@
+.admin-management .ant-table-thead > tr > th {
+    white-space: normal !important;
+    overflow: visible !important;
+    text-overflow: unset !important;
+}

@@ -1,0 +1,21 @@
+/* table antD */
+.dashboard_page .ant-table-container {
+    border: 1px solid #f0f0f0 !important;
+    border-radius: 8px !important;
+}
+
+.dashboard_page .ant-table-cell {
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+}
+
+.dashboard_page .ant-table-wrapper .ant-table-tbody > tr:last-child > td {
+    border-bottom: none !important;
+}
+
+/* style for dropdown header (sort) visible */
+.dashboard_page .ant-table-thead > tr > th {
+    white-space: normal !important;
+    overflow: visible !important;
+    text-overflow: unset !important;
+}
